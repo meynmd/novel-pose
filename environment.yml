@@ -1,0 +1,17 @@
+name: kundu
+channels:
+  - defaults
+dependencies:
+  - python=2.7
+  - opencv
+  - imutils
+  - pillow
+  - moviepy
+  - natsort
+  - ipython
+  - numpy
+  - scipy
+  - pathlib2
+  - h5py
+  - tensorflow==1.15
+prefix: /home/matthew/anaconda3/envs/kundu
